@@ -1,7 +1,7 @@
 {
 	"type":"origins:active_self",
 	"key":"key.origins.primary_active",
-	"cooldown":500,
+	"cooldown":100,
 	"hud_render":{
 		"bar_index":0
 	},
@@ -10,7 +10,7 @@
 		"actions":[
 			{
 				"type":"origins:raycast",
-				"distance":13,
+				"distance":20,
 				"entity":false,
 				"before_action":{
 					"type":"origins:and",
