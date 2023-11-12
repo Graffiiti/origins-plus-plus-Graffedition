@@ -9,8 +9,7 @@
 	"max_stacks":1,
 	"duration_per_stack":20,
 	"effect":{
-		"effect":"minecraft:slowness",
-		"amplifier":1,
+		"effect":"minecraft:weakness",
 		"show_particles":false,
 		"show_icon":false
 	}
