@@ -1,7 +1,7 @@
 {
 	"type":"origins:active_self",
 	"key":"key.origins.secondary_active",
-	"cooldown":300,
+	"cooldown":100,
 	"hud_render":{
 		"sprite_location":"origins:textures/gui/community/huang/resource_bar_01.png",
 		"bar_index":14
